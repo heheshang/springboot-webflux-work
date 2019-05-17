@@ -1,1 +1,16 @@
 # springboot-webflux-work
+## spring-webflux-curd 
+- 基础增删删改查
+
+## spring-webflux-anno
+- 注解编程模型 
+- 服务器推送
+  - SseController  服务器向浏览器推送demo
+- WebSocket
+  - EchoHandler  WebSocket-demo
+  - ![image](../springboot-webflux-work/spring-webflux-anno/src/main/resources/QQ截图20190517144904.jpg)
+## spring-webflux-function
+- 函数式编程模型
+
+## 结语：
+反应式编程范式为开发高性能 Web 应用带来了新的机会和挑战。Spring 5 中的 WebFlux 模块可以作为开发反应式 Web 应用的基础。由于 Spring 框架的流行，WebFlux 会成为开发 Web 应用的重要趋势之一。本文对 Spring 5 中的 WebFlux 模块进行了详细的介绍，包括如何用 WebFlux 开发 HTTP、SSE 和 WebSocket 服务器端应用，以及作为客户端来访问 HTTP、SSE 和 WebSocket 服务。对于 WebFlux 的基于 Java 注解和函数式编程等两种模型都进行了介绍。最后介绍了如何测试 WebFlux 应用。

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ssk.webflux</groupId>
-    <artifactId>spring-webflux-curd</artifactId>
+    <artifactId>spring-webflux-anno</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-webflux-curd</name>
+    <name>spring-webflux-anno</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
