@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-webflux-curd/spring-webflux-curd.iml" filepath="$PROJECT_DIR$/spring-webflux-curd/spring-webflux-curd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-webflux-work.iml" filepath="$PROJECT_DIR$/.idea/springboot-webflux-work.iml" />
-    </modules>
-  </component>
-</project>
