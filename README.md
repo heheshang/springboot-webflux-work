@@ -8,7 +8,7 @@
   - SseController  服务器向浏览器推送demo
 - WebSocket
   - EchoHandler  WebSocket-demo
-  - ![image](../springboot-webflux-work/spring-webflux-anno/src/main/resources/QQ截图20190517144904.jpg)
+  - ![image](https://github.com/heheshang/springboot-webflux-work/blob/master/spring-webflux-anno/src/main/resources/QQ%E6%88%AA%E5%9B%BE20190517144904.jpg)
 ## spring-webflux-function
 - 函数式编程模型
 
