@@ -16,6 +16,20 @@
 反应式编程范式为开发高性能 Web 应用带来了新的机会和挑战。Spring 5 中的 WebFlux 模块可以作为开发反应式 Web 应用的基础。由于 Spring 框架的流行，WebFlux 会成为开发 Web 应用的重要趋势之一。本文对 Spring 5 中的 WebFlux 模块进行了详细的介绍，包括如何用 WebFlux 开发 HTTP、SSE 和 WebSocket 服务器端应用，以及作为客户端来访问 HTTP、SSE 和 WebSocket 服务。对于 WebFlux 的基于 Java 注解和函数式编程等两种模型都进行了介绍。最后介绍了如何测试 WebFlux 应用。
 
 
+* 删除 github 上 .idea文件
+```bash
+$ git --help # 帮助命令
+
+
+$ git pull origin master  # 将远程仓库里面的项目拉下来
+
+$ dir # 查看有哪些文件夹
+
+$ git rm -r --cached .idea  # 删除.idea文件夹
+$ git commit -m '删除.idea' # 提交,添加操作说明
+
+```
+
 
 
 * [WebFlux Restful CRUD 实践（三）](https://mp.weixin.qq.com/s/93lBuIQhPM-XWyBaynx6Hg)
