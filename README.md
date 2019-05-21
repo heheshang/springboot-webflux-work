@@ -36,3 +36,4 @@ $ git commit -m '删除.idea' # 提交,添加操作说明
 * [使用 Spring 5 的 WebFlux 开发反应式 Web 应用](https://www.ibm.com/developerworks/cn/java/spring5-webflux-reactive/index.html)
 * [6. WebFlux framework](https://docs.spring.io/spring/docs/5.0.0.RC2/spring-framework-reference/web.html#web-reactive)
 * [使用 Reactor 进行反应式编程](https://www.ibm.com/developerworks/cn/java/j-cn-with-reactor-response-encode/index.html)
+* [中文参考文档](https://htmlpreview.github.io/?https://github.com/get-set/reactor-core/blob/master-zh/src/docs/index.html)
